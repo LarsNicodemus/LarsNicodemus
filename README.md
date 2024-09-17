@@ -18,6 +18,9 @@ I'm an aspiring app developer currently retraining at Syntax Institute. With a b
 ### EvenTually
 An app that reminds users of their anniversaries and provides personalized gift and activity suggestions.
 
+[EvenTually Repository](https://github.com/LarsNicodemus/EvenTually.git)
+
+
 ### 🌱 In Development: Plant Care App
 Stay tuned for my next project!
 
