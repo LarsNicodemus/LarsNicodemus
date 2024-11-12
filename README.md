@@ -2,7 +2,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an aspiring app developer currently retraining at Syntax Institute. With a background as a Sales Account Manager for SME customers at Telekom, I bring valuable experience from the IT and telecommunications industry. My hearing impairment drives me to overcome challenges and find innovative solutions.
+I am currently studying app development at Syntax Institute. With a background as a Sales Account Manager for SME clients at Telekom, I bring valuable experience from the IT and telecommunications industry. My hearing impairment motivates me to tackle challenges and develop innovative solutions.
 
 🎯 My goal: To leave a positive digital footprint and make technology more accessible for everyone.
 
@@ -21,8 +21,7 @@ An app that reminds users of their anniversaries and provides personalized gift 
 [EvenTually Repository](https://github.com/LarsNicodemus/EvenTually.git)
 
 
-### 🌱 In Development: Plant Care App
-Stay tuned for my next project!
+Stay tuned for my next projects!
 
 ## 📫 Contact
 
